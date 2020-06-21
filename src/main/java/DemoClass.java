@@ -10,6 +10,9 @@ public class DemoClass {
         Map<String, Object> synchronizedMap = Collections.synchronizedMap(map);
         System.out.println("aaas");
         System.out.println("一岁一枯荣");
+        System.out.println("一岁一枯荣");
+        System.out.println("一岁一枯荣");
+        System.out.println("一岁一枯荣");
 
     }
 
