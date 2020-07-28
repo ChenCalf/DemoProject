@@ -14,6 +14,7 @@ public class DemoClass {
     }
 
     protected void eat() throws Throwable {
-      System.out.println("chichichi");
+        System.out.println("chichichi");
+        System.out.println("xixixi");
     }
 }
